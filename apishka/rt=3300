@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Feb 2026 17:22:59 GMT
+Content-Length: 58
+Content-Type: text/plain; charset=utf-8
+
+status: available
+environment: development
+version: 1.0.0
